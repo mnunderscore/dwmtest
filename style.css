@@ -1,3 +1,24 @@
 body{
     background-color: aqua;
 }
+
+.contact {
+    color: white;
+}
+
+.contact {
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+div {
+    padding: 10px;
+}
+
+.send {
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: blueviolet;
+}
